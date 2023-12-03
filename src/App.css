@@ -8,7 +8,6 @@ body{
   justify-content: center;
   align-items: center;
 }
-
 .firstdiv {
   display: flex;
   flex-direction: column; 
@@ -17,7 +16,6 @@ h2{
   color: white;
   margin: 0px;
 }
-
 .buttons {
   display: flex;
   flex-direction: row; 
